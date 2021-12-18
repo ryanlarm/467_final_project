@@ -2,7 +2,7 @@
 
 ### Sources
 
-The javascript and java programs are based off of examples provided by AWS for using their SDKs.
+The javascript and java programs are based off of examples provided by AWS for using their SDKs. `App.js` is from an example provided by node for running local web servers, the arduino program is based on an example provided in the library for the breakout board, and the serialcomm.java is from my old cse132 code.
 
 ## Install
 
